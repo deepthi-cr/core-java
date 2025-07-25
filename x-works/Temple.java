@@ -1,0 +1,7 @@
+public class Temple
+{
+public static void main(String[] args)
+{
+System.out.println("happy fest");
+}
+}
